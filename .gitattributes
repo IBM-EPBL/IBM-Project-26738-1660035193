@@ -1,0 +1,2 @@
+*.python linguist-detectableable=true
+*.c++ linguist-detectableable=false
